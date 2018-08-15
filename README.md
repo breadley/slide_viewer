@@ -1,4 +1,4 @@
-# slide_viewer
+# Slide viewer
 Open and navigate digital histology files
 
 # Goal
