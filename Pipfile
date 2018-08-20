@@ -7,6 +7,7 @@ name = "pypi"
 jupyter = "*"
 openslide-python = "*"
 pyinstaller = "*"
+wget = "*"
 
 [dev-packages]
 
