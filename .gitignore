@@ -3,3 +3,6 @@ research
 
 # Ignoire jupyter checkpoints
 .ipynb_checkpoints
+
+# large files such as .svs
+*.svs
