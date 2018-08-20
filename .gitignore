@@ -1,2 +1,5 @@
 # ignore research folder
 research
+
+# Ignoire jupyter checkpoints
+.ipynb_checkpoints
