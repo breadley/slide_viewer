@@ -6,3 +6,7 @@ research
 
 # large files such as .svs
 *.svs
+
+
+# no temp files
+*.tmp
